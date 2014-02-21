@@ -11,7 +11,9 @@ class Famille
 
 	}
 
+        public function test(){
 
+        }
 
 
 
